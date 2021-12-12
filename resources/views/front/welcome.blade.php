@@ -18,4 +18,12 @@
         </div>
     </div>
 
+    <div class="container-fluid mt-5">
+        <div class="row justify-content-center">
+            <div class="col-12 mx-auto d-block">
+                <h1 class="text-dark text-center">САЙТ НА РЕКОНСТРУКЦИИ</h1>
+            </div>
+        </div>
+    </div>
+
 @endsection
